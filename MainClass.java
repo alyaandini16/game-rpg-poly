@@ -25,11 +25,5 @@ public class MainClass {
     chr = new Fighter();
     Fighter f = (Fighter) chr;
     f.move();
-
-    
-
-
-
-
-}
+    }
 }
